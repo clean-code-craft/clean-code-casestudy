@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CNC-MONITORING.md
+  - README.md
+  - LICENSE.md
+  
+  
+  
+  
+  
